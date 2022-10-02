@@ -1,0 +1,76 @@
+.personagem {
+    position: absolute;
+    width: 299px;
+    height: 371px;
+    left: 770px;
+    top: 214px;
+}
+.terminal {
+    position: absolute;
+    width: 92px;
+    height: 26px;
+    left: 568px;
+    top: 510px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    /* identical to box height, or 26px */
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.terminall {
+    position: absolute;
+    width: 128px;
+    height: 26px;
+    left: 695px;
+    top: 510px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.data {
+    position: absolute;
+    width: 75px;
+    height: 26px;
+    left: 568px;
+    top: 539px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 689px;
+    font-size: 18px;
+    line-height: 141.69%;
+    color: #FFFFFF;
+}
+
+.datta {
+    position: absolute;
+    width: 130px;
+    height: 26px;
+    left: 695px;
+    top: 539px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 141.69%;
+    color: #FFFFFF;
+}
+h6{
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    left: 554px;
+    top: 480px;
+    background: linear-gradient(91.03deg, rgba(255, 254, 254, 0.23) -47.11%, rgba(255, 254, 254, 0.23) 110.32%);
+    backdrop-filter: blur(30px);
+    border-radius: 5px;
+    text-decoration: none;
+}
+.botao{
+    position: absolute;
+width: 84px;
+height: 29px;
+left: 865px;
+top: 525px;
+font-size: 18px;
+}

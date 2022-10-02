@@ -1,0 +1,43 @@
+.title__intro{
+    width: 487px;
+    height: 177px;
+    left: 62px;
+    top: 174px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;  
+}
+.title__sub{
+    position: absolute;
+    width: 354px;
+    height: 48px;
+    left: 62px;
+    top: 366px;
+    font-weight: 500;
+    font-size: 17px;
+}
+h5{
+    position: absolute;
+    width: 113px;
+    height: 24px;
+    left: 84px;
+    top: 456px;
+    gap: 25px;
+    font-weight: 500;
+    font-size: 17px;
+    background: rgba(252, 71, 84, 0.91);
+    border-radius: 4px;
+    text-decoration: none;
+}
+h4{
+    position: absolute;
+    width: 113px;
+    height: 24px;
+    left: 235px;
+    top: 456px;
+    font-weight: 500;
+    font-size: 17px;    
+    border: 2px solid rgba(252, 71, 84, 0.55);
+    border-radius: 4px;
+    text-decoration: none;
+}

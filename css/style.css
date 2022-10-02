@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    display: grid;
+    background-color: #10061E;
+    grid-template-areas: "header"
+     "main" "footer";
+    grid-template-rows: 100px 1fr  180px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    grid-area: main;
+    display: grid;
+    grid-template-areas: "description product social";
+    grid-template-columns: 380px 1fr 48px;
+    padding-left: 100px;
+    color: white;
+}
+footer {
+    grid-area: footer;
+    color: white;
+    display: flex;
+    gap: 2px;
+}
